@@ -1,0 +1,6 @@
+{  "name": "Fofocas da Galhardo", 
+    "short_name": "FLG",  "lang": "pt-BR",
+    "start_url": " https://laryssagalhardo.github.io/pwa/", 
+    "scope": "./?",  "display": "fullscreen",  "theme_color": "#dc09b9",
+    "icons": [    {      "src": " https://laryssagalhardo.github.io/pwa/img/passarinho.png",     
+    "sizes": "512x512",      "type": "passarinho.img"    }  ],  "background_color": "#000000"}
