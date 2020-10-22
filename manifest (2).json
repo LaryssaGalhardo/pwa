@@ -1,1 +1,0 @@
-{  "name": "Fofocas da Galhardo",  "lang": "pt-BR",  "start_url": " ",  "scope": "./?",  "display": "fullscreen",  "theme_color": "#dc09b9",  "icons": [    {      "src": " https://laryssagalhardo.github.io/pwa/ ",      "sizes": "512x512",      "type": "passarinho.img"    }  ],  "background_color": "#000000"}
